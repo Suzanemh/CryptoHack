@@ -1,5 +1,4 @@
-import sys
-import base64
+
 from Crypto.Util.number import long_to_bytes
 
 
