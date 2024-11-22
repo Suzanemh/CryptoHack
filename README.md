@@ -12,3 +12,6 @@ The purpose of this exercise is to understand and apply **XOR properties** to de
 
 ## FavouriteByte.py
 The goal of this task is to use XOR with all possible single-byte keys (from 0 to 255) to decrypt the given hex-encoded string, and identify the correct key by checking for the presence of the word "crypto" in the resulting output.
+
+## xorMultiByte.py
+The goal of this script is to decrypt a hexadecimal-encoded, XOR-encrypted message (flag) by first deriving the encryption key using a known plaintext prefix (crypto), and then using the key to reveal the full decrypted message.
