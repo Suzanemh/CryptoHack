@@ -15,3 +15,9 @@ The goal of this task is to use XOR with all possible single-byte keys (from 0 t
 
 ## xorMultiByte.py
 The goal of this script is to decrypt a hexadecimal-encoded, XOR-encrypted message (flag) by first deriving the encryption key using a known plaintext prefix (crypto), and then using the key to reveal the full decrypted message.
+
+## gcd.py
+Using Euclid's Alghoritm to calculate gcd(a,b)
+
+## ASCII.py
+The code converts a list of ASCII values into a single string by mapping each value to its corresponding character and joining them together.
