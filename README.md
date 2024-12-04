@@ -21,3 +21,9 @@ Using Euclid's Alghoritm to calculate gcd(a,b)
 
 ## ASCII.py
 The code converts a list of ASCII values into a single string by mapping each value to its corresponding character and joining them together.
+
+## extendenGCD.py
+This code implements the **Extended Euclidean Algorithm**, which computes the greatest common divisor (gcd) of two integers \(a\) and \(b\), and also finds integers \(u\) and \(v\) such that \(a \cdot u + b \cdot v = \text{gcd}(a, b)\) (Bézout's identity).
+
+## congruence.py
+This code calculates the modular reductions of two numbers (11 modulo 6 and 8146798528947 modulo 17), compares the results, and prints the smallest of the two values.
