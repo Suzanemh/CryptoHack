@@ -27,3 +27,6 @@ This code implements the **Extended Euclidean Algorithm**, which computes the gr
 
 ## congruence.py
 This code calculates the modular reductions of two numbers (11 modulo 6 and 8146798528947 modulo 17), compares the results, and prints the smallest of the two values.
+
+## fermatTheorem
+This code calculates the modular exponentiation of a base raised to an exponent, modulo a given value, which is useful for applying Fermat's Little Theorem.

@@ -21,4 +21,3 @@ minValue = min(x,y)
 print(f"the smallest value of the two integers x and y is {minValue}")
 
 
-min(11 % 6, 8146798528947 % 17)
