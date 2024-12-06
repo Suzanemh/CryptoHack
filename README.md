@@ -33,3 +33,6 @@ This code calculates the modular exponentiation of a base raised to an exponent,
 
 ## modularInverting.py
 This code calculates the multiplicative inverse of \( a = 7 \) modulo \( 11 \), meaning it finds the number \( x \) such that \( 7 \times x \equiv 1 \pmod{11} \), and then prints the result.
+
+## quadraticResidues.py
+This code checks all integers (a) from 1 to p-1 to determine if any of their squares are congruent to x modulo \( p \), and reports whether such a number a exists.
